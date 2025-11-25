@@ -1,0 +1,1 @@
+console.log("The js page for learning purpose")
